@@ -1,4 +1,4 @@
-### Hi I am Egor 👋
+### `Hi. I am Egor` 👋
 - 🔭 **I’m currently working on my new Android app. It`s called KYLE and it will help you to keep your passwords save. Check my repasitories!**
 - 🌱 I’m currently learning Java,Android,SQL,Firebase,Python.
 - 👯 I’m looking to collaborate on my new projects. You can write me in Direct or Telegram.
