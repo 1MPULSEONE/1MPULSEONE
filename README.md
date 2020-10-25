@@ -5,7 +5,7 @@
 - 💬 Ask me about everything, i hope i can help you.
 - 📫 How to reach me: [Vk](https://vk.com/1mpulseone).[Instagram](https://www.instagram.com/l0ve_jazz). Telegram - 1mpulseone.
 
-[![Gmail Badge](https://img.shields.io/badge/-parkhomenko2049@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:parkhomenko2049@gmail.com)](mailto:parkhomenko2049@gmail.com) [![Github Badge](https://img.shields.io/badge/-1MPULSEONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/1MPULSEONE/)](https://www.github.com/1MPULSEONE/) <p align='left'>I am living in Russia and I love to code! Right now i am developing apps for Android and learn Java.</p>
+[![Gmail Badge](https://img.shields.io/badge/-parkhomenko2049@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:parkhomenko2049@gmail.com)](mailto:parkhomenko2049@gmail.com) [![Github Badge](https://img.shields.io/badge/-1MPULSEONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/1MPULSEONE/)](https://www.github.com/1MPULSEONE/) <p align='left'>I am living in Russia and I love to code! Right now i am developing apps for Android and learning Java.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=1MPULSEONE alt=1MPULSEONE /> </p>
 
