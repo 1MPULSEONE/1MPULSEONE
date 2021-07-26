@@ -1,6 +1,6 @@
 ## Hey 👋, This is Parkhomenko Egor
-- 🔭 **I’m currently working on my new Android app. It`s called KYLE and it will help you to keep your passwords save. Check my repositories!**
-- 🌱 I’m currently learning Java,Android,Firebase,JavaScript,ReactNative,Redux.
+- 🔭 **I’m currently working in StudentsLab, where i am developing android app "EffectiveAnroid". It helps users learn mobile developing. If you want to become tester, you can dm me.
+- 🌱 I’m currently learning Kotlin,Android,Firebase,TypeScript,ReactNative.
 - 👯 I’m looking to collaborate on my new projects. You can write me in Direct or Telegram.
 - 💬 Ask me about everything, i hope i can help you.
 - 📫 How to reach me: [Vk](https://vk.com/1mpulseone).[Instagram](https://www.instagram.com/l0ve_jazz). Telegram - @1mpulseone. Discord - lovejazz<3#7454
