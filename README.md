@@ -1,5 +1,5 @@
 ## Hey 👋, This is Parkhomenko Egor
-- 🔭 **I’m currently working in StudentsLab, where i am developing android app "EffectiveAnroid". It helps users learn mobile developing. If you want to test it, you can dm me.
+- 🔭 **I’m currently working in StudentsLab, where i am developing android app "EffectiveAndroid". It helps users learn mobile developing. If you want to test it, you can dm me.
 - 🌱 I’m currently learning Kotlin,Android,Firebase,TypeScript,ReactNative.
 - 👯 I’m looking to collaborate on my new projects. You can write me in Direct or Telegram.
 - 💬 Ask me about everything, i hope i can help you.
