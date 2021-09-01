@@ -1,11 +1,10 @@
 ## Hey 👋, This is Parkhomenko Egor
 - 🔭 **I’m currently working in StudentsLab, where i am developing android app "EffectiveAndroid". It helps users learn mobile developing. If you want to test it, you can dm me.
-- 🌱 I’m currently learning Kotlin,Android,Firebase,TypeScript,ReactNative.
 - 👯 I’m looking to collaborate on my new projects. You can write me in Direct or Telegram.
 - 💬 Ask me about everything, i hope i can help you.
 - 📫 How to reach me: [Vk](https://vk.com/1mpulseone).[Instagram](https://www.instagram.com/l0ve_jazz). Telegram - @1mpulseone. Discord - lovejazz<3#7454
 
-[![Gmail Badge](https://img.shields.io/badge/-parkhomenko2049@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:parkhomenko2049@gmail.com)](mailto:parkhomenko2049@gmail.com) [![Github Badge](https://img.shields.io/badge/-1MPULSEONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/1MPULSEONE/)](https://www.github.com/1MPULSEONE/) <p align='left'>I am living in Russia and I love to code! Right now i am developing apps for Android and learning Java.</p>
+[![Gmail Badge](https://img.shields.io/badge/-parkhomenko2049@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:parkhomenko2049@gmail.com)](mailto:parkhomenko2049@gmail.com) [![Github Badge](https://img.shields.io/badge/-1MPULSEONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/1MPULSEONE/)](https://www.github.com/1MPULSEONE/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=1MPULSEONE alt=1MPULSEONE /> </p>
 
