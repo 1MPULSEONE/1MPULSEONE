@@ -1,5 +1,5 @@
-## Hey 👋, This is Parkhomenko Egor
-- 🔭 **I’m currently working in StudentsLab, where i am developing android app "EffectiveAndroid". It helps users learn mobile developing. If you want to test it, you can dm me.
+## Hey 👋, I am Parkhomenko Egor
+<!-- - 🔭 **I’m currently working in StudentsLab, where i am developing android app "EffectiveAndroid". It helps users learn mobile developing. If you want to test it, you can dm me. -->
 - 👯 I’m looking to collaborate on my new projects. You can write me in Direct or Telegram.
 - 💬 Ask me about everything, i hope i can help you.
 - 📫 How to reach me: [Vk](https://vk.com/1mpulseone).[Instagram](https://www.instagram.com/l0ve_jazz). Telegram - @1mpulseone. Discord - lovejazz<3#7454
