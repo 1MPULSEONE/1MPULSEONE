@@ -9,6 +9,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=1MPULSEONE alt=1MPULSEONE /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=1MPULSEONE&show_icons=true&include_all_commits=true)](https://github.com/1MPULSEONE/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=1MPULSEONE&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MPULSEONE&layout=compact)](https://github.com/1MPULSEONE/github-readme-stats)
 
 <!--
