@@ -24,9 +24,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+</br>
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=1MPULSEONE&show_icons=true&include_all_commits=true)](https://github.com/1MPULSEONE/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=1MPULSEONE&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MPULSEONE&layout=compact)](https://github.com/1MPULSEONE/github-readme-stats)
+
 
 <!--
 **1MPULSEONE/1MPULSEONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
