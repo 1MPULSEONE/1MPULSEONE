@@ -26,7 +26,6 @@
 
 </br>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=1MPULSEONE&show_icons=true&include_all_commits=true)](https://github.com/1MPULSEONE/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=1MPULSEONE&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
