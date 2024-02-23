@@ -26,7 +26,7 @@
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=1MPULSEONE&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=1mpulseone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **1MPULSEONE/1MPULSEONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
